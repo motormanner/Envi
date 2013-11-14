@@ -1,0 +1,14 @@
+
+// detection---------------------------------------------------------------------------------------------
+
+
+screen.lockOrientation('landscape');
+
+element.mozRequestFullScreen();
+
+function detect(){
+
+
+    console.log("start");
+	}
+
